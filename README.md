@@ -35,23 +35,41 @@ As the developer of this project, I was responsible for:
 ✅ Deployment and server-side configuration
 
 🏗️ System Architecture
+
 Users
+
    │
+   
    ▼
+   
 Frontend
+
 (HTML/CSS/JavaScript)
+
    │
+   
    ▼
+   
 PHP Application Layer
+
    │
+   
    ├── Patient Management
+   
    ├── Pharmacy Module
+   
    ├── Reporting Module
+   
    ├── Document Management
+   
    └── Notification Services
+   
    │
+   
    ▼
+   
 MySQL Database
+
 
 ✨ Business Features
   Patient Management
@@ -96,26 +114,47 @@ Development Environment
   
 📂 Repository Structure
 ubsante-project/
+
 │
+
 ├── font/
+
 ├── hopitalpages/
+
 ├── hopitalincludes/
+
 ├── hopitalconnexion/
+
 ├── hopitalpdf/
+
 ├── hopitalPHPMailer/
+
 ├── hopitalcss/
+
 ├── hopitaljs/
+
 ├── hopitalimages/
+
 ├── hopitalplugin/
+
 ├── hopitalupload/
+
 ├── hopitalpdf/
+
 ├── hopitalpdffont/
+
 │
+
 ├── hopitalbd.sql
+
 ├── hopitalbdnew.sql
+
 ├── index.php
+
 ├── indexpersonnel.php
+
 ├── indexproprietaire.php
+
 └── style.css
 
 🚀 Installation
@@ -137,16 +176,16 @@ Launch: http://localhost/ubsante-project
 
 📸 Screenshots
 Login Page
-![Login page screenshot](./hopitalscreenshot/login-page.png)
+![Login page screenshot](/hopitalscreenshot/login-page.png)
 
 Dashboard
-![Dashboard screenshot](./hopitalscreenshot/dashboard.png)
+![Dashboard screenshot](/hopitalscreenshot/dashboard.png)
 
 Patient Management
-![Patient registration page screenshot](./hopitalscreenshot/patient-registration.png)
+![Patient registration page screenshot](/hopitalscreenshot/patient-registration.png)
 
 Patient Management
-![Patients list page screenshot](./hopitalscreenshot/patients-list.png)
+![Patients list page screenshot](/hopitalscreenshot/patients-list.png)
 
 💡 Technical Challenges Solved
   Managing healthcare data through a relational database structure
