@@ -177,16 +177,16 @@ Launch: http://localhost/ubsante-project
 📸 Screenshots
 
 Login Page
-![Login page screenshot](../hopitalscreenshots/login-page.png)
+![Login page screenshot](hopitalscreenshots/login-page.png)
 
 Dashboard
-![Dashboard screenshot](../hopitalscreenshots/dashboard.png)
+![Dashboard screenshot](hopitalscreenshots/dashboard.png)
 
 Patient Management
-![Patient registration page screenshot](../hopitalscreenshots/patient-registration.png)
+![Patient registration page screenshot](hopitalscreenshots/patient-registration.png)
 
 Patient Management
-![Patients list page screenshot](../hopitalscreenshots/patients-list.png)
+![Patients list page screenshot](hopitalscreenshots/patients-list.png)
 
 💡 Technical Challenges Solved
   Managing healthcare data through a relational database structure
